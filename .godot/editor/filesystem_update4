@@ -1,0 +1,11 @@
+res://default_env.tres
+res://Scenes/TestLevel.tscn
+res://Player/Player.tscn
+res://Items/Coins/GoldCoin.tscn
+res://Game.gd
+res://HUD.gd
+res://ParallaxBackground.tscn
+res://HUD.tscn
+res://Player/ParallaxBackground.tscn
+res://CloudLayer.gd
+res://Scenes/ParallaxBackground.tscn
